@@ -4,7 +4,9 @@
 - 💞️ Interested in collaborating? Let's talk, contact me and I'll get the coffee.
 - 📫 you can reach me at
 -                      gmail - agarwaldeeksha03@gmail.com
--                      linkedin - www.linkedin.com/in/deeksha-agarwal-47b00a254
+-                      linkedin - www.linkedin.com/in/deekshatw
+-                      twitter - @deekshatw
+-                      hashnode - @deekshatw
 
 <!---
 agarwal-deeksha/agarwal-deeksha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
