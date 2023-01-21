@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agarwal-deeksha
-- 👀 I’m interested in Software Development, Android Development.
-- 🌱 I’m currently learning Java Programming and soon gonna begin android development through java, and then planning to move further to Kotlin.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently working on Android development with Kotlin
 - 💞️ Interested in collaborating? Let's talk, contact me and I'll get the coffee.
 - 📫 you can reach me at
 -                      gmail - agarwaldeeksha03@gmail.com
