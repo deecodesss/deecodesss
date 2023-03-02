@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agarwal-deeksha
+- 👋 Hi, I’m @deekshatw
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently working on Android development with Kotlin
 - 💞️ Interested in collaborating? Let's talk, contact me and I'll get the coffee.
