@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/deekshatw" target="blank"><img src="https://img.shields.io/twitter/follow/deekshatw?logo=twitter&style=for-the-badge" alt="deekshatw" /></a> </p>
 
-- 🔭 I’m currently working on [Travel Wiz](https://github.com/deekshatw/Travel-Wiz)
+- 🔭 I’m currently working on [Mifos Mobile](https://github.com/openMF/mifos-mobile)
 
 - 📝 I regularly write articles on [https://hashnode.com/@deekshatw](https://hashnode.com/@deekshatw)
 
