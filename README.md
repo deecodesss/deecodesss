@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mifos Mobile](https://github.com/openMF/mifos-mobile)
 
-- 📝 I regularly write articles on [https://hashnode.com/@deekshatw](https://hashnode.com/@deekshatw)
+- 📝 I write articles on [https://hashnode.com/@deekshatw](https://hashnode.com/@deekshatw)
 
 - 📫 How to reach me **agarwaldeeksha03@gmail.com**
 
