@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deeksha Agarwal</h1>
-<h3 align="center">A passionate Android Developer</h3>
+<h3 align="center">A Developer who loves to build android apps</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshatw&label=Profile%20views&color=0e75b6&style=flat" alt="deekshatw" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mind Mate](https://github.com/krrish9958/Mind-Mate)
 
-- 📝 I write articles on [https://hashnode.com/@deekshatw](https://hashnode.com/@deekshatw)
+- 📝 I write articles on [Hashnode](https://deekshatw.hashnode.dev/)
 
 - 📫 How to reach me **agarwaldeeksha03@gmail.com**
 
