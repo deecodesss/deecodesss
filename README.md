@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshatw&label=Profile%20views&color=0e75b6&style=flat" alt="deekshatw" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deekshatw" target="blank"><img src="https://img.shields.io/twitter/follow/deekshatw?logo=twitter&style=for-the-badge" alt="deekshatw" /></a> </p>
+ I am taking #100DaysOfCode challenge🎯, I'll post all the code here on GitHub!
 
 - 🔭 I’m currently working on [Mind Mate](https://github.com/krrish9958/Mind-Mate)
 
