@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Deeksha Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Deeksha</h1>
 <h3 align="center">A developer who loves to build mobile apps</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshatw&label=Profile%20views&color=0e75b6&style=flat" alt="deekshatw" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deekshatw" target="blank"><img src="https://img.shields.io/twitter/follow/deekshatw?logo=twitter&style=for-the-badge" alt="deekshatw" /></a> </p>
 
-- 🔭 I’m currently working on [Mind Mate](https://github.com/krrish9958/Mind-Mate)
+- 🔭 I’m currently working on [Spend Wise](https://github.com/deekshatw/spend-wise-backend)
 
 - 📝 I write articles on [Hashnode](https://deekshatw.hashnode.dev/)
 
-- 📫 How to reach me **agarwaldeeksha03@gmail.com**
+- 📫 How to reach me **deekshaa.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
